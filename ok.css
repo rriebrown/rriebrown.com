@@ -1,0 +1,7 @@
+h1 {background-color:#6495ed;font:arial;color:darkblue;text-align:center;}
+p,ul,ol {font-family:arial;background-color:white;font:arial;color:darkblue;}
+body {background-color:#b0c4de;margin-right:100px;margin-left:100px;}
+a {text-decoration:none;}
+a:hover {text-decoration:underline;}
+ul {list-style-type:square;}
+ol {list-style-type:upper-alpha;}
